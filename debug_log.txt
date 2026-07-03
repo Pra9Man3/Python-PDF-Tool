@@ -1,0 +1,214 @@
+2025-07-22 23:11:34,673 - Error opening 00.Index.pdf: page 2 not in document
+2025-07-22 23:11:36,314 - Error opening 00.Initial Pages.pdf: page 30 not in document
+2025-07-22 23:11:38,012 - Error opening 01.Chapter 1 Introduction to Indian Accounting Standards.pdf: page 76 not in document
+2025-07-22 23:11:39,716 - Error opening 02.Chapter 2 Conceptual Framework for Financial Reporting under Indian Accounting Standards Ind AS.pdf: page 150 not in document
+2025-07-22 23:11:41,451 - Error opening 03.Unit 1 Ind AS 1 Presentation of Financial Statements.pdf: page 221 not in document
+2025-07-22 23:11:43,144 - Error opening 04.Unit 2 Ind AS 34 Interim Financial Reporting.pdf: page 250 not in document
+2025-07-22 23:11:44,948 - Error opening 05.Unit 3 Ind AS 7 Statement of Cash Flows.pdf: page 310 not in document
+2025-07-22 23:11:46,767 - Error opening 06.Unit 1 Ind AS 8 Accounting Policies Changes in Accounting Estimates and Errors.pdf: page 358 not in document
+2025-07-22 23:11:48,512 - Error opening 07.Unit 2 Ind AS 10 Events after the Reporting Period.pdf: page 392 not in document
+2025-07-22 23:11:50,307 - Error opening 08.Unit 3 Ind AS 113 Fair Value Measurement.pdf: page 430 not in document
+2025-07-22 23:11:52,055 - Error opening 09.Annexure  Division II of Schedule III to the Companies Act 2013.pdf: page 470 not in document
+2025-07-22 23:11:53,790 - Error opening 10.Practice Questions.pdf: page 526 not in document
+2025-07-22 23:11:55,483 - Error opening 11. Initials.pdf: page 546 not in document
+2025-07-22 23:11:57,244 - Error opening 11.Unit 1 Ind AS 2 Inventories.pdf: page 589 not in document
+2025-07-22 23:11:59,011 - Error opening 12.Unit 2 Ind AS 16 Property Plant and Equipment.pdf: page 642 not in document
+2025-07-22 23:12:00,755 - Error opening 13.Unit 3 Ind AS 23 Borrowing Costs.pdf: page 678 not in document
+2025-07-22 23:12:02,588 - Error opening 14.Unit 4 Ind AS 36 Impairment of Assets.pdf: page 753 not in document
+2025-07-22 23:12:04,447 - Error opening 15.Unit 5 Ind AS 38 Intangible Assets.pdf: page 820 not in document
+2025-07-22 23:12:06,214 - Error opening 16.Unit 6 Ind AS 40 Investment Property.pdf: page 858 not in document
+2025-07-22 23:12:07,976 - Error opening 17.Unit 7 Ind AS 105 Non-current Assets Held for Sale and Discontinued Operations.pdf: page 901 not in document
+2025-07-22 23:12:10,042 - Error opening 18.Unit 8 Ind AS 116 Leases.pdf: page 1061 not in document
+2025-07-22 23:12:11,722 - Error opening 19.Ind AS Puzzlers Test Your Accounting Acumen.pdf: page 1065 not in document
+2025-07-22 23:12:13,438 - Error opening 20.Initials.pdf: page 1083 not in document
+2025-07-22 23:12:15,323 - Error opening 20.Unit 1 Ind AS 19 Employee Benefits.pdf: page 1175 not in document
+2025-07-22 23:12:17,164 - Error opening 21.Unit 2 Ind AS 37 Provisions Contingent Liabilities and Contingent Assets.pdf: page 1231 not in document
+2025-07-22 23:12:19,098 - Error opening 22.Unit 1 Ind AS 12 Income Taxes.pdf: page 1325 not in document
+2025-07-22 23:12:20,888 - Error opening 23.Unit 2 Ind AS 21 The Effects of Changes in Foreign Exchange Rates.pdf: page 1363 not in document
+2025-07-22 23:12:22,641 - Error opening 24.Unit 1 Ind AS 24 Related Party Disclosures.pdf: page 1396 not in document
+2025-07-22 23:12:24,490 - Error opening 25.Unit 2 Ind AS 33 Earnings per Share.pdf: page 1457 not in document
+2025-07-22 23:12:26,310 - Error opening 26.Unit 3 Ind AS 108 Operating Segments.pdf: page 1495 not in document
+2025-07-22 23:12:28,015 - Error opening 27.0Initials.pdf: page 1511 not in document
+2025-07-22 23:12:30,100 - Error opening 27.Chapter 9 Ind AS 115 Revenue from Contracts with Customers.pdf: page 1667 not in document
+2025-07-22 23:12:31,921 - Error opening 28.Unit 1 Ind AS 41 Agriculture.pdf: page 1698 not in document
+2025-07-22 23:12:33,637 - Error opening 29.Unit 2 Ind AS 20 Accounting for Government Grants and Disclosure of Government Assistance.pdf: page 1726 not in document
+2025-07-22 23:12:35,526 - Error opening 30.Unit 3 Ind AS 102 Share Based Payment.pdf: page 1785 not in document
+2025-07-22 23:12:37,269 - Error opening 31.Unit 1 Financial Instruments Scope and Definitions.pdf: page 1814 not in document
+2025-07-22 23:12:39,149 - Error opening 32.Unit 2 Classification and Measurement of Financial Assets and Financial Liabilities.pdf: page 1882 not in document
+2025-07-22 23:12:41,127 - Error opening 33.Unit 3 Financial Instruments Equity and Financial Liabilities.pdf: page 1919 not in document
+2025-07-22 23:12:42,967 - Error opening 34.Unit 4  Derivatives and Embedded Derivatives.pdf: page 1943 not in document
+2025-07-22 23:12:44,798 - Error opening 35.Unit 5 Recognition and Derecognition of Financial Instruments.pdf: page 1973 not in document
+2025-07-22 23:12:46,553 - Error opening 36.Unit 6 Hedge Accounting.pdf: page 1981 not in document
+2025-07-22 23:12:48,246 - Error opening 37.Unit 7 Disclosures.pdf: page 1997 not in document
+2025-07-22 23:12:49,991 - Error opening 38.Comprehensive Illustrations.pdf: page 2022 not in document
+2025-07-22 23:12:51,726 - Error opening 39.Test Your Knowledge.pdf: page 2041 not in document
+2025-07-22 23:12:53,465 - Error opening 40.0Initials.pdf: page 2059 not in document
+2025-07-22 23:12:55,611 - Error opening 40.Chapter 12 Ind AS 103 Business Combinations.pdf: page 2193 not in document
+2025-07-22 23:12:57,359 - Error opening 41.Unit 1  Introduction to Consolidated and Separate Financial Statements.pdf: page 2197 not in document
+2025-07-22 23:12:59,032 - Error opening 42.Unit 2  Important Definitions.pdf: page 2198 not in document
+2025-07-22 23:13:00,919 - Error opening 43.Unit 3  Consolidated Financial Statements.pdf: page 2251 not in document
+2025-07-22 23:13:02,731 - Error opening 44.Unit 4  Ind AS 110 Consolidation Procedure for Subsidiaries.pdf: page 2305 not in document
+2025-07-22 23:13:04,461 - Error opening 45.Unit 5  Ind AS 111 Joint Arrangements.pdf: page 2335 not in document
+2025-07-22 23:13:06,279 - Error opening 46.Unit 6  Ind AS 28 Investments in Associates and Joint Ventures.pdf: page 2370 not in document
+2025-07-22 23:13:07,973 - Error opening 47.Unit 7  Ind AS 27 Separate Financial Statements.pdf: page 2378 not in document
+2025-07-22 23:13:09,807 - Error opening 48.Unit 8  Disclosures.pdf: page 2423 not in document
+2025-07-22 23:13:11,700 - Error opening 49.Chapter 14 Ind AS 101 First-time Adoption of Ind AS.pdf: page 2483 not in document
+2025-07-22 23:13:13,584 - Error opening 50.Chapter 15 Analysis of Financial Statements.pdf: page 2539 not in document
+2025-07-22 23:13:15,417 - Error opening 51.Chapter 16 Professional and Ethical Duty of a Chartered Accountant.pdf: page 2591 not in document
+2025-07-22 23:13:17,223 - Error opening 52.Chapter 17 Accounting and Technology.pdf: page 2629 not in document
+2025-07-22 23:24:28,824 - Error opening 00. Index.pdf: page 1 not in document
+2025-07-22 23:24:29,288 - Error opening 00. Initial Pages.pdf: page 23 not in document
+2025-07-22 23:24:29,774 - Error opening Chapter 1 Financial Policy and Corporate Strategy.pdf: page 41 not in document
+2025-07-22 23:24:30,421 - Error opening Chapter 10 Foreign Exchange Exposure and Risk Management.pdf: page 149 not in document
+2025-07-22 23:24:30,978 - Error opening Chapter 11 International Financial Management.pdf: page 193 not in document
+2025-07-22 23:24:31,511 - Error opening Chapter 12 Interest Rate Risk Management.pdf: page 221 not in document
+2025-07-22 23:24:32,096 - Error opening Chapter 13 Business Valuation.pdf: page 289 not in document
+2025-07-22 23:24:32,708 - Error opening Chapter 14 Mergers Acquisitions and Corporate Restructuring.pdf: page 373 not in document
+2025-07-22 23:24:33,187 - Error opening Chapter 15 Startup Finance.pdf: page 397 not in document
+2025-07-22 23:24:33,686 - Error opening Chapter 2 Risk Management.pdf: page 407 not in document
+2025-07-22 23:24:34,356 - Error opening Chapter 3 Advanced Capital Budgeting Decisions.pdf: page 497 not in document
+2025-07-22 23:24:34,896 - Error opening Chapter 4 Security Analysis.pdf: page 537 not in document
+2025-07-22 23:24:35,497 - Error opening Chapter 5 Security Valuation.pdf: page 609 not in document
+2025-07-22 23:24:36,228 - Error opening Chapter 6 Portfolio Management.pdf: page 739 not in document
+2025-07-22 23:24:36,731 - Error opening Chapter 7 Securitization.pdf: page 755 not in document
+2025-07-22 23:24:37,319 - Error opening Chapter 8 Mutual Funds.pdf: page 809 not in document
+2025-07-22 23:24:37,961 - Error opening Chapter 9 Derivatives Analysis and Valuation.pdf: page 897 not in document
+2025-07-22 23:24:38,463 - Error opening x Appendix.pdf: page 902 not in document
+2025-07-22 23:38:34,246 - Error opening 00. Index.pdf: page 1 not in document
+2025-07-22 23:38:34,992 - Error opening 00. Initial Pages.pdf: page 21 not in document
+2025-07-22 23:38:35,736 - Error opening Chapter 1 Quality Control.pdf: page 55 not in document
+2025-07-22 23:38:36,402 - Error opening Chapter 1 x6.6 Corrigendum .pdf: page 56 not in document
+2025-07-22 23:38:37,228 - Error opening Chapter 2 General Auditing Principles and Auditors Responsibilities.pdf: page 122 not in document
+2025-07-22 23:38:38,100 - Error opening Chapter 3 Audit Planning Strategy and Execution.pdf: page 192 not in document
+2025-07-22 23:38:38,985 - Error opening Chapter 4 Materiality Risk Assessment and Internal Control.pdf: page 266 not in document
+2025-07-22 23:38:39,789 - Error opening Chapter 5 Audit Evidence.pdf: page 306 not in document
+2025-07-22 23:38:40,587 - Error opening Chapter 6 Completion and Review.pdf: page 342 not in document
+2025-07-22 23:38:41,632 - Error opening Chapter 7 Reporting.pdf: page 454 not in document
+2025-07-22 23:38:42,369 - Error opening Chapter 8 00.Initials.pdf: page 468 not in document
+2025-07-22 23:38:43,229 - Error opening Chapter 8 Specialised Areas.pdf: page 508 not in document
+2025-07-22 23:38:44,202 - Error opening Chapter 9 Related Services.pdf: page 534 not in document
+2025-07-22 23:38:45,364 - Error opening Chapter 10 Review of Financial Information.pdf: page 584 not in document
+2025-07-22 23:38:46,559 - Error opening Chapter 11 Prospective Financial Information and Other Assurance Services.pdf: page 624 not in document
+2025-07-22 23:38:47,788 - Error opening Chapter 12 Digital Auditing  Assurance.pdf: page 684 not in document
+2025-07-22 23:38:48,985 - Error opening Chapter 13 Group Audits.pdf: page 724 not in document
+2025-07-22 23:38:50,341 - Error opening Chapter 14 Unit-1.pdf: page 806 not in document
+2025-07-22 23:38:51,564 - Error opening Chapter 14 Unit-2.pdf: page 855 not in document
+2025-07-22 23:38:52,569 - Error opening Chapter 15 00.Initials.pdf: page 865 not in document
+2025-07-22 23:38:53,678 - Error opening Chapter 15 Overview of Audit of Public Sector Undertakings.pdf: page 903 not in document
+2025-07-22 23:38:54,828 - Error opening Chapter 16 Internal Audit.pdf: page 948 not in document
+2025-07-22 23:38:56,110 - Error opening Chapter 17 Due Diligence Investigation  Forensic Accounting.pdf: page 1031 not in document
+2025-07-22 23:38:57,200 - Error opening Chapter 18 Sustainable Development Goals SDG  Environment Social and Governance ESG Assurance.pdf: page 1067 not in document
+2025-07-22 23:38:58,889 - Error opening Chapter 19 Professional Ethics  Liabilities of Auditors.pdf: page 1256 not in document
+2025-07-22 23:44:47,120 - Error opening 00. Index.pdf: page 1 not in document
+2025-07-22 23:44:47,574 - Error opening 00. Initial Pages.pdf: page 23 not in document
+2025-07-22 23:44:48,056 - Error opening Chapter 1 Financial Policy and Corporate Strategy.pdf: page 41 not in document
+2025-07-22 23:44:48,525 - Error opening Chapter 2 Risk Management.pdf: page 51 not in document
+2025-07-22 23:44:49,207 - Error opening Chapter 3 Advanced Capital Budgeting Decisions.pdf: page 141 not in document
+2025-07-22 23:44:49,756 - Error opening Chapter 4 Security Analysis.pdf: page 181 not in document
+2025-07-22 23:44:50,330 - Error opening Chapter 5 Security Valuation.pdf: page 253 not in document
+2025-07-22 23:44:51,056 - Error opening Chapter 6 Portfolio Management.pdf: page 383 not in document
+2025-07-22 23:44:51,528 - Error opening Chapter 7 Securitization.pdf: page 399 not in document
+2025-07-22 23:44:52,135 - Error opening Chapter 8 Mutual Funds.pdf: page 453 not in document
+2025-07-22 23:44:52,769 - Error opening Chapter 9 Derivatives Analysis and Valuation.pdf: page 541 not in document
+2025-07-22 23:44:53,422 - Error opening Chapter 10 Foreign Exchange Exposure and Risk Management.pdf: page 649 not in document
+2025-07-22 23:44:53,980 - Error opening Chapter 11 International Financial Management.pdf: page 693 not in document
+2025-07-22 23:44:54,488 - Error opening Chapter 12 Interest Rate Risk Management.pdf: page 721 not in document
+2025-07-22 23:44:55,101 - Error opening Chapter 13 Business Valuation.pdf: page 789 not in document
+2025-07-22 23:44:55,730 - Error opening Chapter 14 Mergers Acquisitions and Corporate Restructuring.pdf: page 873 not in document
+2025-07-22 23:44:56,214 - Error opening Chapter 15 Startup Finance.pdf: page 897 not in document
+2025-07-22 23:44:56,741 - Error opening x Appendix.pdf: page 902 not in document
+2025-07-22 23:57:58,955 - Error opening 00. Index.pdf: page 1 not in document
+2025-07-22 23:57:59,945 - Error opening 00. Initial pages.pdf: page 21 not in document
+2025-07-22 23:58:01,166 - Error opening Chapter 1 Basic Concepts.pdf: page 93 not in document
+2025-07-22 23:58:02,256 - Error opening Chapter 2 Incomes which do not form part of Total Income.pdf: page 137 not in document
+2025-07-22 23:58:03,885 - Error opening Chapter 3 Profits and Gains of Business or Profession.pdf: page 358 not in document
+2025-07-22 23:58:05,380 - Error opening Chapter 4 Capital Gains.pdf: page 532 not in document
+2025-07-22 23:58:06,642 - Error opening Chapter 5 Income from Other Sources.pdf: page 596 not in document
+2025-07-22 23:58:08,240 - Error opening Chapter 6 Income of Other Persons included in Assessees Total Income.pdf: page 616 not in document
+2025-07-22 23:58:09,504 - Error opening Chapter 7 Aggregation of Income Set Off or Carry Forward of Losses.pdf: page 656 not in document
+2025-07-22 23:58:10,925 - Error opening Chapter 8 Deductions from Gross Total Income.pdf: page 776 not in document
+2025-07-22 23:58:12,095 - Error opening Chapter 8 M1 Annexure.pdf: page 821 not in document
+2025-07-22 23:58:13,116 - Error opening Chapter 9 00.Initials.pdf: page 827 not in document
+2025-07-22 23:58:14,712 - Error opening Chapter 9 Assessment of Various Entities.pdf: page 1039 not in document
+2025-07-22 23:58:16,102 - Error opening Chapter 10 Assessment of Trusts and Institutions Political Parties and Other Special Entities.pdf: page 1171 not in document
+2025-07-22 23:58:17,334 - Error opening Chapter 11 Tax Planning Tax Avoidance and Tax Evasion.pdf: page 1211 not in document
+2025-07-22 23:58:18,571 - Error opening Chapter 12 Taxation of Digital Transactions.pdf: page 1249 not in document
+2025-07-22 23:58:19,685 - Error opening Chapter 13 00.Initials.pdf: page 1259 not in document
+2025-07-22 23:58:21,635 - Error opening Chapter 13 Deduction Collection and Recovery of Tax.pdf: page 1483 not in document
+2025-07-22 23:58:23,844 - Error opening Chapter 14 Income Tax Authorities.pdf: page 1533 not in document
+2025-07-22 23:58:25,788 - Error opening Chapter 15 Assessment Procedure.pdf: page 1675 not in document
+2025-07-22 23:58:27,407 - Error opening Chapter 16 Appeals and Revision.pdf: page 1739 not in document
+2025-07-22 23:58:28,618 - Error opening Chapter 17 Dispute Resolution.pdf: page 1755 not in document
+2025-07-22 23:58:30,136 - Error opening Chapter 18 Miscellaneous Provisions.pdf: page 1805 not in document
+2025-07-22 23:58:31,785 - Error opening Chapter 19 Provisions to Counteract Unethical Tax Practices.pdf: page 1885 not in document
+2025-07-22 23:58:33,702 - Error opening Chapter 20 Tax Audit and Ethical Compliances.pdf: page 2006 not in document
+2025-07-22 23:58:35,090 - Error opening Chapter 21 00.Initials.pdf: page 2014 not in document
+2025-07-22 23:58:37,156 - Error opening Chapter 21 Non Resident Taxation.pdf: page 2176 not in document
+2025-07-22 23:58:38,754 - Error opening Chapter 22 Double Taxation Relief.pdf: page 2212 not in document
+2025-07-22 23:58:40,269 - Error opening Chapter 23 Advance Rulings.pdf: page 2222 not in document
+2025-07-22 23:58:42,173 - Error opening Chapter 24 Transfer Pricing.pdf: page 2340 not in document
+2025-07-22 23:58:43,970 - Error opening Chapter 25 Fundamentals of BEPS.pdf: page 2394 not in document
+2025-07-22 23:58:45,396 - Error opening Chapter 26 Application and Interpretation of Tax Treaties.pdf: page 2424 not in document
+2025-07-22 23:58:46,971 - Error opening Chapter 27 Overview of Model Tax Conventions.pdf: page 2458 not in document
+2025-07-22 23:58:48,420 - Error opening Chapter 28 Latest Developments in International Taxation.pdf: page 2480 not in document
+2025-07-22 23:58:49,844 - Error opening Chapter 28 M4 Annexure.pdf: page 2487 not in document
+2025-07-22 23:58:51,122 - Error opening Judicial Updates Sept-2025.pdf: page 2499 not in document
+2025-07-22 23:58:52,614 - Error opening Statutory Updates Sept-2025.pdf: page 2534 not in document
+2025-07-23 00:08:39,634 - Error opening 00.Index.pdf: page 1 not in document
+2025-07-23 00:08:40,699 - Error opening Chapter 1 00. Initial Page.pdf: page 19 not in document
+2025-07-23 00:08:42,183 - Error opening Chapter 1 Supply under GST.pdf: page 162 not in document
+2025-07-23 00:08:43,427 - Error opening Chapter 2 Charge of GST.pdf: page 262 not in document
+2025-07-23 00:08:44,964 - Error opening Chapter 3 Place of Supply.pdf: page 396 not in document
+2025-07-23 00:08:47,165 - Error opening Chapter 4 Exemptions from GST.pdf: page 566 not in document
+2025-07-23 00:08:48,801 - Error opening Chapter 5 Time of Supply.pdf: page 628 not in document
+2025-07-23 00:08:50,706 - Error opening Chapter 6 Value of Supply.pdf: page 738 not in document
+2025-07-23 00:08:52,435 - Error opening Chapter 7 00. Initial Page.pdf: page 746 not in document
+2025-07-23 00:08:55,040 - Error opening Chapter 7 Input Tax Credit.pdf: page 980 not in document
+2025-07-23 00:08:57,138 - Error opening Chapter 8 Registration.pdf: page 1092 not in document
+2025-07-23 00:08:58,888 - Error opening Chapter 9 Tax Invoice Credit and Debit Notes.pdf: page 1176 not in document
+2025-07-23 00:09:00,542 - Error opening Chapter 10 Accounts and Records E-way Bill.pdf: page 1234 not in document
+2025-07-23 00:09:02,122 - Error opening Chapter 11 Payment of Tax.pdf: page 1318 not in document
+2025-07-23 00:09:03,719 - Error opening Chapter 12 Electronic Commerce Transactions.pdf: page 1372 not in document
+2025-07-23 00:09:05,741 - Error opening Chapter 13 Returns.pdf: page 1470 not in document
+2025-07-23 00:09:07,593 - Error opening Chapter 14 00. Initial Page.pdf: page 1484 not in document
+2025-07-23 00:09:09,450 - Error opening Chapter 14 Import and Export Under GST.pdf: page 1576 not in document
+2025-07-23 00:09:11,596 - Error opening Chapter 15 Refunds.pdf: page 1652 not in document
+2025-07-23 00:09:13,220 - Error opening Chapter 16 Job Work.pdf: page 1680 not in document
+2025-07-23 00:09:14,699 - Error opening Chapter 17 Assessment and Audit.pdf: page 1710 not in document
+2025-07-23 00:09:16,185 - Error opening Chapter 18 Inspection Search Seizure and Arrest.pdf: page 1732 not in document
+2025-07-23 00:09:17,827 - Error opening Chapter 19 Demands and Recovery.pdf: page 1796 not in document
+2025-07-23 00:09:19,354 - Error opening Chapter 20 Liability to Pay in Certain Cases.pdf: page 1820 not in document
+2025-07-23 00:09:21,106 - Error opening Chapter 21 Offences and Penalties and Ethical Aspects under GST.pdf: page 1896 not in document
+2025-07-23 00:09:22,781 - Error opening Chapter 22 Appeals and Revision.pdf: page 1950 not in document
+2025-07-23 00:09:24,425 - Error opening Chapter 23 Advance Ruling.pdf: page 1978 not in document
+2025-07-23 00:09:26,134 - Error opening Chapter 24 Miscellaneous Provisions.pdf: page 2027 not in document
+2025-07-23 00:09:27,633 - Error opening Customs 00. Initial Page.pdf: page 2037 not in document
+2025-07-23 00:09:29,343 - Error opening Customs 1 Levy of and Exemptions from Customs Duty.pdf: page 2103 not in document
+2025-07-23 00:09:31,106 - Error opening Customs 2 Types of Duty.pdf: page 2151 not in document
+2025-07-23 00:09:32,697 - Error opening Customs 3 Classification of Imported and Export Goods.pdf: page 2181 not in document
+2025-07-23 00:09:34,701 - Error opening Customs 4 Valuation under the Customs Act 1962.pdf: page 2297 not in document
+2025-07-23 00:09:36,634 - Error opening Customs 5 Importation and Exportation of Goods.pdf: page 2391 not in document
+2025-07-23 00:09:38,157 - Error opening Customs 6 Warehousing.pdf: page 2425 not in document
+2025-07-23 00:09:39,690 - Error opening Customs 7 Refund.pdf: page 2449 not in document
+2025-07-23 00:09:41,610 - Error opening Customs 8 Foreign Trade Policy.pdf: page 2507 not in document
+2025-08-04 16:26:28,636 - Error opening 11.pdf: page 1 not in document
+2025-08-04 16:26:30,526 - Error opening westpart_pf.pdf: page 915 not in document
+2025-08-04 16:26:34,280 - Error opening westprop_sop.pdf: page 2428 not in document
+2025-08-04 18:06:33,234 - Error opening 00. Index.pdf: page 1 not in document
+2025-08-04 18:06:33,867 - Error opening 00. Initial Pages.pdf: page 23 not in document
+2025-08-04 18:06:34,588 - Error opening Chapter 1 Financial Policy and Corporate Strategy.pdf: page 41 not in document
+2025-08-04 18:06:35,302 - Error opening Chapter 2 Risk Management.pdf: page 51 not in document
+2025-08-04 18:06:36,100 - Error opening Chapter 3 Advanced Capital Budgeting Decisions.pdf: page 141 not in document
+2025-08-04 18:06:36,888 - Error opening Chapter 4 Security Analysis.pdf: page 181 not in document
+2025-08-04 18:06:37,611 - Error opening Chapter 5 Security Valuation.pdf: page 253 not in document
+2025-08-04 18:06:38,661 - Error opening Chapter 6 Portfolio Management.pdf: page 383 not in document
+2025-08-04 18:06:39,251 - Error opening Chapter 7 Securitization.pdf: page 399 not in document
+2025-08-04 18:06:40,057 - Error opening Chapter 8 Mutual Funds.pdf: page 453 not in document
+2025-08-04 18:06:40,892 - Error opening Chapter 9 Derivatives Analysis and Valuation.pdf: page 541 not in document
+2025-08-04 18:06:41,808 - Error opening Chapter 10 Foreign Exchange Exposure and Risk Management.pdf: page 649 not in document
+2025-08-04 18:06:42,497 - Error opening Chapter 11 International Financial Management.pdf: page 693 not in document
+2025-08-04 18:06:43,129 - Error opening Chapter 12 Interest Rate Risk Management.pdf: page 721 not in document
+2025-08-04 18:06:43,942 - Error opening Chapter 13 Business Valuation.pdf: page 789 not in document
+2025-08-04 18:06:44,763 - Error opening Chapter 14 Mergers Acquisitions and Corporate Restructuring.pdf: page 873 not in document
+2025-08-04 18:06:45,375 - Error opening Chapter 15 Startup Finance.pdf: page 897 not in document
+2025-08-04 18:06:45,961 - Error opening x Appendix.pdf: page 902 not in document

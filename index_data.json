@@ -1,0 +1,128 @@
+[
+  {
+    "sr": 1,
+    "file": "Index",
+    "label": "",
+    "start": 1,
+    "end": 1
+  },
+  {
+    "sr": 2,
+    "file": "00. Initial Pages",
+    "label": "",
+    "start": 2,
+    "end": 23
+  },
+  {
+    "sr": 3,
+    "file": "Chapter 1 Financial Policy and Corporate Strategy",
+    "label": "",
+    "start": 24,
+    "end": 41
+  },
+  {
+    "sr": 4,
+    "file": "Chapter 10 Foreign Exchange Exposure and Risk Management",
+    "label": "",
+    "start": 42,
+    "end": 149
+  },
+  {
+    "sr": 5,
+    "file": "Chapter 11 International Financial Management",
+    "label": "",
+    "start": 150,
+    "end": 193
+  },
+  {
+    "sr": 6,
+    "file": "Chapter 12 Interest Rate Risk Management",
+    "label": "",
+    "start": 194,
+    "end": 221
+  },
+  {
+    "sr": 7,
+    "file": "Chapter 13 Business Valuation",
+    "label": "",
+    "start": 222,
+    "end": 289
+  },
+  {
+    "sr": 8,
+    "file": "Chapter 14 Mergers Acquisitions and Corporate Restructuring",
+    "label": "",
+    "start": 290,
+    "end": 373
+  },
+  {
+    "sr": 9,
+    "file": "Chapter 15 Startup Finance",
+    "label": "",
+    "start": 374,
+    "end": 397
+  },
+  {
+    "sr": 10,
+    "file": "Chapter 2 Risk Management",
+    "label": "",
+    "start": 398,
+    "end": 407
+  },
+  {
+    "sr": 11,
+    "file": "Chapter 3 Advanced Capital Budgeting Decisions",
+    "label": "",
+    "start": 408,
+    "end": 497
+  },
+  {
+    "sr": 12,
+    "file": "Chapter 4 Security Analysis",
+    "label": "",
+    "start": 498,
+    "end": 537
+  },
+  {
+    "sr": 13,
+    "file": "x Appendix",
+    "label": "",
+    "start": 538,
+    "end": 542
+  },
+  {
+    "sr": 14,
+    "file": "Chapter 5 Security Valuation",
+    "label": "",
+    "start": 543,
+    "end": 614
+  },
+  {
+    "sr": 15,
+    "file": "Chapter 6 Portfolio Management",
+    "label": "",
+    "start": 615,
+    "end": 744
+  },
+  {
+    "sr": 16,
+    "file": "Chapter 7 Securitization",
+    "label": "",
+    "start": 745,
+    "end": 760
+  },
+  {
+    "sr": 17,
+    "file": "Chapter 8 Mutual Funds",
+    "label": "",
+    "start": 761,
+    "end": 814
+  },
+  {
+    "sr": 18,
+    "file": "Chapter 9 Derivatives Analysis and Valuation",
+    "label": "",
+    "start": 815,
+    "end": 902
+  }
+]
